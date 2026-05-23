@@ -98,7 +98,7 @@ Instale as seguintes bibliotecas na IDE do Arduino:
 
 Acesse a simulação no Tinkercad / Wokwi pelo link abaixo:
 
-🔗 **[Link da Simulação](#)** ← *(substituir pelo link real)*
+🔗 **https://wokwi.com/projects/464730814628509697(#)** ← *(substituir pelo link real)*
 
 ### Executar fisicamente:
 
@@ -127,7 +127,7 @@ Acesse a simulação no Tinkercad / Wokwi pelo link abaixo:
 
 ## 📹 Vídeo de Apresentação
 
-🎥 **[Link do Vídeo](#)** ← *(substituir pelo link real)*
+🎥 **https://youtu.be/iwwfQ3McPgI(#)** ← *(substituir pelo link real)*
 
 -----
 
