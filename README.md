@@ -102,23 +102,24 @@ Acesse a simulação no Tinkercad / Wokwi pelo link abaixo:
 
 ### Executar fisicamente:
 
-1. Monte o circuito conforme o diagrama disponível na pasta `/circuito`
+   1. Monte o circuito conforme o diagrama disponível na pasta `/circuito`
 1. Instale as bibliotecas necessárias (ver seção acima)
-1. Abra o arquivo `codigo.ino` na Arduino IDE
-1. Selecione a porta correta em **Ferramentas > Porta**
-1. Clique em **Upload**
+2. Abra o arquivo `codigo.ino` na Arduino IDE
+3. Selecione a porta correta em **Ferramentas > Porta**
+4. Clique em **Upload**
 
 -----
 
 ## 📁 Estrutura do Repositório
 
 ```
-📦 vinheria-agnello-cp2
+📦 vinharia-agnelo-arduino
 ├── 📄 README.md
-├── 📂 codigo/
-│   └── codigo.ino
-├── 📂 circuito/
-│   └── diagrama.png
+├── 📂 code_vinheria/
+│   └── code.ino
+├── 📂 circuit/
+│   └── diagram.json
+│   └── diagram.png
 └── 📂 docs/
     └── (imagens e materiais de apoio)
 ```
