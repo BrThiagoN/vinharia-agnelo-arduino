@@ -116,9 +116,6 @@ Acesse a simulação no Tinkercad / Wokwi pelo link abaixo:
 📦 vinharia-agnelo-arduino
 ├── 📂 code_vinheria/
 │   └── code.ino
-├── 📂 circuit/
-│   └── diagram.json
-│   └── diagram.png
 ├── 📂 docs/
 │   └── (imagens e materiais de apoio)
 ├── 📄 link-thinkercard.md
